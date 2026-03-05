@@ -1,0 +1,8 @@
+{
+  "name": "NALAM THEDI LAB",
+  "description": "AI-powered clinical diagnostic support for rural healthcare, featuring urine strip analysis, hemoglobin risk stratification, and voice-enabled patient entry.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
